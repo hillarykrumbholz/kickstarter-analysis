@@ -6,6 +6,5 @@ Providing insight to client Louise, on what would help make her Kickstarter cama
 
 ### Challenge
 A look into the data of what months are best to begin a Theater Kickstarter campaign (Figure 1.) and looking at the outcome based on gaols for plays.
-![Outcomes_Based_on_Launch_Date_for_Theater](C:\Users\krumb\Desktop\Classwork - Data Bootcamp\Crowdfunding Analysis\Outcomes Based on Launch Date for Theater.png)
 
 
