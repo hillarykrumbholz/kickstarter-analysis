@@ -15,7 +15,9 @@ The purpose of this report was to do a thorough investigation of what factors ma
 For this analysis, Louise is wanting to start a Kickstarter for a play and wants to know how successful it would potentially be. She has a goal amount of $12000 USD and has an interest in choosing a play like those that she saw at the Edinburgh Fringe Festival. First, we can see from Figure 3, that theater Kickstarter campaigns, and more specifically plays are quite popular in the US (Figure 4,) which is beneficial for Louise. When deciding the time of year for this campaign, I would suggest a start date between the months of May and June. As you can see from Figure 5, that there is an increase of success during those months. When looking at the $12000 goal amount, data shows for plays at that amount there is only a 50% chance of meeting the goal (Figure 6.) Plays are most successful at 76% when they have a goal of $1000 or less. Then when looking at the five plays she was interested in at the Edinburgh Fringe Festival, they had goals ranging between $1000 and $4000; they all reached success, and the average amount donated by a backer was $40.48. With this information I would recommend decreasing the goal amount to the $1000-$5000 range, as there is still a high success rate of 73%. 
 ![Popularity of Parent Categories in United States](https://github.com/hillarykrumbholz/kickstarter-analysis/blob/master/Figure%203%20-%20Popularity%20of%20Parent%20Categories%20in%20United%20States.png)
 ![Popularity of Plays in the United States](https://github.com/hillarykrumbholz/kickstarter-analysis/blob/master/Figure%204%20-%20Popularity%20of%20Plays%20in%20the%20United%20States.png)
-![Outcomes Based on Launch Date for Theater]
+![Outcomes Based on Launch Date for Theater](https://github.com/hillarykrumbholz/kickstarter-analysis/blob/master/Figure%205%20-%20Outcomes%20Based%20on%20Launch%20Date%20for%20Theater.png)
+![Outcomes Based on Goals for Plays by Percent]
+
 
 
  
