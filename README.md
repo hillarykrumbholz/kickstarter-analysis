@@ -6,7 +6,7 @@ Providing insight to client Louise, on what would help make her Kickstarter cama
 
 
 ### Challenge
-A look into the data of what months are best to begin a Theater Kickstarter campaign and looking at the outcome based on gaols for plays.
+A look into the data of what months are best to begin a Theater Kickstarter campaign and looking at the outcome based on gaols for plays. Louise has a goal of $12000 for her play and wants to know the liklihood of reaching that goal. 
 
 The purpose of this report was to do a thorough investigation of what factors make a Kickstarter campaign successful. Some of the factors considered included the category of the campaign, country of origin, monetary goal amount, and time of year the campaign went live. First, when looking at all categories in the study, the data shows that 'Theater' is the most popular across all countries, (Figure 1.) Additionally, it is to be noted that theater campaigns have one of the highest success rates. Next, when looking at the country of origin, 3038 out of 4115 of the Kickstarter campaigns were held in the United States, which indicates they are more popular in the US. Third, there appears to be a correlation between goal amount and success - when there is a more conservative goal, it is more likely to reach success. Last, the time of year when a campaign goes live influences its success - there is a large spike when starting a campaign in the months of May or June, (Figure 2.) 
 ![Popularity_In_Parent_Categories_across_all_Countries](https://github.com/hillarykrumbholz/kickstarter-analysis/blob/master/Figure%201%20-%20Popularity%20in%20Parent%20Categories%20across%20all%20Countries.png)
