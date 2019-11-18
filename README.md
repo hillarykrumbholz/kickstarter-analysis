@@ -16,7 +16,7 @@ For this analysis, Louise is wanting to start a Kickstarter for a play and wants
 ![Popularity of Parent Categories in United States](https://github.com/hillarykrumbholz/kickstarter-analysis/blob/master/Figure%203%20-%20Popularity%20of%20Parent%20Categories%20in%20United%20States.png)
 ![Popularity of Plays in the United States](https://github.com/hillarykrumbholz/kickstarter-analysis/blob/master/Figure%204%20-%20Popularity%20of%20Plays%20in%20the%20United%20States.png)
 ![Outcomes Based on Launch Date for Theater](https://github.com/hillarykrumbholz/kickstarter-analysis/blob/master/Figure%205%20-%20Outcomes%20Based%20on%20Launch%20Date%20for%20Theater.png)
-![Outcomes Based on Goals for Plays by Percent]
+![Outcomes Based on Goals for Plays by Percent](https://github.com/hillarykrumbholz/kickstarter-analysis/blob/master/Figure%206%20-%20Outcomes%20Based%20on%20Goals%20for%20Plays%20by%20Percent.png)
 
 
 
